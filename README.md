@@ -1,8 +1,8 @@
 # Markdown Guide
 Guía para usar el markdown de GitHub.
-# Hola papu, qué miras
-## Hola papu, qué miras
-### Hola papu, qué miras
-#### Hola papu, qué miras
-##### Hola papu, qué miras
-###### Hola papu, qué miras
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
